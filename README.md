@@ -29,5 +29,6 @@ sbayX/
 │   ├── Hero.tsx          # 主视觉区域
 │   └── ...               # 其他组件
 ├── public/               # 静态资源
+├── node_modules.         # 依赖库
 └── package.json          # 项目配置
 ```
